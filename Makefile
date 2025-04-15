@@ -8,4 +8,4 @@ tests_run:
     @echo "Running tests..."
 
 clean:
-    @echo "Final clean-up !"
+    @echo "Final clean-up."
